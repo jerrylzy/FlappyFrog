@@ -2,10 +2,6 @@
 ### Introduction
 This is a violent **mo**dification of [Don't Touch My Birdie](https://github.com/marksteve/dtmb) by Mark Steve Samson. Here "mo" represents a popular Chinese culture "膜".
 
-### Screenshot
-![screenshot1](screenshot1.png)
-![screenshot2](screenshot2.png)
-
 ### Link
 [Click here to play](https://jerrylzy.github.io/FlappyFrog/)
 
@@ -16,3 +12,7 @@ This is a violent **mo**dification of [Don't Touch My Birdie](https://github.com
 
 ### Licensed
 This "game" is licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+### Screenshot
+![screenshot1](screenshot1.png)
+![screenshot2](screenshot2.png)
